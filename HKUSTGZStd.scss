@@ -1,15 +1,18 @@
 /* stylelint-disable no-descending-specificity -- https://github.com/stylelint/stylelint/issues/5065 */
 
 /*!
- * Marp default theme.
+ * Marp HKUSTGZStd theme.
  *
- * @theme default
- * @author Yuki Hattori
+ * @theme HKUSTGZStd
+ * @author Tong.Y
  *
  * @auto-scaling true
  * @size 16:9 1280px 720px
  * @size 4:3 960px 720px
+ * @size 1080P 1920px 1080px
+ * @size 4k 3840px 2160px
  */
+
 
 @import '~github-markdown-css';
 
@@ -21,8 +24,8 @@ h1 {
 
 h2 {
   border-bottom: none;
-  color: var(--h2-color);
   font-size: 1.3em;
+  color: #996600;
 }
 
 h3 {
@@ -188,11 +191,10 @@ section {
   /* stylelint-disable-next-line scss/at-extend-no-missing-placeholder */
   @extend .markdown-body;
 
-  --h1-color: #003366;
+  --h1-color: #b8ecb6;
   --header-footer-color: #{rgba(#003366, 0.75)};
   --heading-strong-color: #000000;
   --paginate-color: #003366;
-  --h2-color: #996600;
 
   align-items: stretch;
   display: flex;
