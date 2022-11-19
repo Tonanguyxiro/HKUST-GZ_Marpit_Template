@@ -1,6 +1,22 @@
 # HKUST(GZ) Marpit Template for Presentation
 ## Introduction
 
+Marpit Presentation Template for The Hong Kong University of Science and Technology (Guangzhou), the
+
+### Advantage
+
+- No worry to layout, just focus on what you want to present. 
+
+
+
+### Markdown VS LateX
+
+| Item | Markdown | Latex |
+| ---- | -------- | ----- |
+|      |          |       |
+|      |          |       |
+|      |          |       |
+
 
 
 ## Usage
