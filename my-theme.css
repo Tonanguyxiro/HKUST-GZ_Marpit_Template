@@ -1,0 +1,25 @@
+/* @theme my-theme */
+/*
+ * @author Tong.Y
+ * @size 1080P 1920px 1080px
+ * @size square 1000px 1000px
+ * */
+
+/* 
+ * Resolution
+ * 
+ * */
+
+
+@import 'default';
+
+h1 {
+  color: red;
+}
+
+section {
+    /* Define colors */
+
+
+    
+}
