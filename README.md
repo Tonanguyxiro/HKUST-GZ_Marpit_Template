@@ -1,4 +1,4 @@
-# HKUST(GZ) Marpit Template for Presentation
+# HKUST(GZ) [Marpit](https://marpit.marp.app/) Template for Presentation
 ## Introduction
 
 Marpit Presentation Template for The Hong Kong University of Science and Technology (Guangzhou), the
@@ -21,6 +21,10 @@ Marpit Presentation Template for The Hong Kong University of Science and Technol
 
 ## Usage
 
+
+
+### Download the template and theme
+
 ### Install VScode add-ons 
 
 ### Add theme
@@ -31,13 +35,21 @@ Marpit Presentation Template for The Hong Kong University of Science and Technol
 
 
 
+## Want to customise your slide?
+
+### I am not from HKUST(GZ)
+
+
+
+
+
+
+
 ## Resource for reference
 
 ### Markdown syntax
 
-
-
-[Markdown Guide](https://www.markdownguide.org/)
+Please refer to [Markdown Guide](https://www.markdownguide.org/) 
 
 
 
@@ -66,7 +78,7 @@ Marpit Presentation Template for The Hong Kong University of Science and Technol
 
 #### Advanced Layout Design
 
-- [ ] 
+- [ ] Two column
 
 ### Other projects on the way
 
