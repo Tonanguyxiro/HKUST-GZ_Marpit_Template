@@ -1,8 +1,11 @@
 # HKUST(GZ) Marpit Template for Presentation
 ## Introduction
 
+
+
 ## Usage
-### Install Marpit
+
+### Install VScode add-ons 
 
 ### Add theme
 
@@ -10,8 +13,49 @@
 
 ### Export your slide
 
+
+
+## Resource for reference
+
+### Markdown syntax
+
+
+
+[Markdown Guide](https://www.markdownguide.org/)
+
+
+
 ## What's NEXT 
-### Further developing
+### Further Developing
+
+#### Global Settings
+
 - [ ] Add special size preset for display in large lecture hall 
+- [ ] Adjust header and footer design
+
+#### Resources
+
+- [ ] Design better title page decoration
+- [ ] Design background for content page
+
+#### Style
+
+- [ ] Adjust the style for body/content
+- [ ] Adjust the style for lists
+- [ ] Adjust the style for table
+
+#### Image
+
+
+
+#### Advanced Layout Design
+
+- [ ] 
 
 ### Other projects on the way
+
+- [ ] HKUST(GZ) Marpit Slide Template: Dark mode
+- [ ] HKUST(GZ) Marpit Slide Template: For online conference 
+- [ ] HKUST(GZ) Marpit Slide Template: For homework
+- [ ] HKUST(GZ) Latex Slide Template
+- [ ] HKUST(GZ) Latex Report Template
