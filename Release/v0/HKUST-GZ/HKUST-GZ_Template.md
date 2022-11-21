@@ -4,7 +4,9 @@ theme: My-University
 paginate: true
 size: 1080P
 
-header: '![](Theme/logo.png)'
+header: '![](Theme/Image/logo.png)'
+
+# You can edit the content in footer by your self
 footer: 'Your Presentation, Name, Date, or Conference'
 ---
 <!-- 
@@ -12,6 +14,7 @@ _backgroundImage: url('Image/background.png')
 _footer: ''
 _paginate: false
 -->
+
 
 # HKUST(GZ) Slide Template
 
@@ -54,13 +57,22 @@ Powered by [Marpit](https://marpit.marp.app/)
 |      Row 2       | Cell (2, 1)     |  Cell (2, 2)   |
 
 ---
-# Part IV: Image
+# Part IV: [Image](https://marpit.marp.app/image-syntax)
 
 ---
 ### Inline Image
 
+You can add image with specified width with 
+```md
+![width:960px](Theme/Image/image.jpeg)
+```
+
+![width:960px](Theme/Image/image.jpeg)
+
 ---
 ### Background Image
+
+
 
 ---
 ### Advanced Background

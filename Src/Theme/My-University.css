@@ -48,6 +48,17 @@ li {
   font-size: 1.6em;
 }
 
+th {
+  font: bold;
+  background-color: var(--university-main);
+  color: var(--university-white);
+  font-size: 1.2em;
+}
+
+td {
+  /* background-color: var(--hkust-gray); */
+  font-size: 1.2em;
+}
 
 header {
   top: 30px;

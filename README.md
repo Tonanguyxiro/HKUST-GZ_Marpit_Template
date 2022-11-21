@@ -61,9 +61,19 @@ footer: 'Your Presentation, Name, Date, or Conference'
 
 You can click the Markdown Preview button to see the rendered view.
 
+The content of footer can be edited by your self
+
 #### Choose Slide Size
 
-As you may see
+As you may see, in your university there is multiple size of screen with different ratio, here you can adjust the `size` , we have pre defined several size for you.
+
+- `16:9` 1280px 720px
+- `4:3` 960px 720px
+- `1080P` 1920px 1080px
+- `4k` 3840px 2160px
+- `square` 1000px 1000px
+
+Also you can defind the size by yourself by `size: width height`, the unit can be `cm`, `in`, `mm`, `pc`, `pt`, and `px`.
 
 ### Export your slide
 
