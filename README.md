@@ -23,8 +23,12 @@ To be completed
 
 ### Download the template and theme
 
+In [Release] page, click the compressed file related to your university, 
 
 ### Install VScode add-ons
+
+
+![](Image/Marpit-install.png)
 
 ### Add theme
 
