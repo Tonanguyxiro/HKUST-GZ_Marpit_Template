@@ -25,7 +25,7 @@ To be completed
 
 ### Download the template and theme
 
-In [Release]() page, click the compressed file related to your university,
+In [Release](https://github.com/Tonanguyxiro/HKUST-GZ_Marpit_Template/releases) page, click the compressed file related to your university,
 
 ### Install VScode add-ons
 
