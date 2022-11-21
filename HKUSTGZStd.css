@@ -15,6 +15,7 @@
 
 
 @import 'default';
+@import url("HKUST-GZ_Color.css");
 
 p {
   font-size: 1.8em;
@@ -65,17 +66,9 @@ section::after {
   content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
 }
 
-section {
-    /* Define colors */
-    --hkust-yellow-dark: #996600;
-    --hkust-yellow-light: #CC9900;
-    --hkust-white: #FFFFFF;
-    --hkust-blue: #003366;
-    --hkust-gray: #8c8a8a;
-    --hkust-black: #000000;
 
-    
-}
+
+
 
 
 
