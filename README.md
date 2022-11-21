@@ -23,12 +23,13 @@ To be completed
 
 ### Download the template and theme
 
-In [Release] page, click the compressed file related to your university, 
+In [Release] page, click the compressed file related to your university,
 
 ### Install VScode add-ons
 
+In VScode market space, search [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) and click install,
 
-![](Image/Marpit-install.png)
+<img src="Image/Marpit-install.png" alt="Marpit-install" width="50%">
 
 ### Add theme
 
@@ -52,7 +53,6 @@ To be completed.
 
 To be completed.
 
-
 ## Resource for reference
 
 ### Markdown syntax
@@ -61,8 +61,7 @@ Please refer to [Markdown Guide](https://www.markdownguide.org/)
 
 ### More about Marpit
 
-If you are interested in Marpited, you can 
-
+If you are interested in Marpited, you can
 
 ## What's NEXT
 
