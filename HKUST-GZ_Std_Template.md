@@ -4,7 +4,7 @@ theme: HKUSTGZStd
 paginate: true
 size: 1080P
 
-header: '![](Image/logo.png)'
+header: '![](Theme/logo.png)'
 footer: 'Your Presentation, Name, Date, or Conference'
 ---
 <!-- 
@@ -23,28 +23,54 @@ Powered by [Marpit](https://marpit.marp.app/)
 
 ---
 ## Heading II 
-
 ### Heading III
 #### Heading IV
 #### Heading IV
-
 ### Heading III
+
 ---
 ## Part II: List
 
 ---
+### Numbered List
+1. List Item 1
+2. List Item 2
+3. List Item 3
+
+---
+### Bullets List
+- Dots Item 1
+- Dots Item 2
+- Dots Item 3
+
+---
 # Part III: Table
 
-|  cfenvernvkjern|  cfenvernvkjern |
-| - | -  |
-| cfenvernvkjern | cfenvernvkjern  |
+---
+
+|  Table Column 1  |  Table Column 2 | Table Column 3 |
+|------------------|-----------------|----------------|
+|      Row 1       | Cell (1, 1)     |  Cell (1, 2)   |
+|      Row 2       | Cell (2, 1)     |  Cell (2, 2)   |
 
 ---
 # Part IV: Image
 
+---
+### Inline Image
+
+---
+### Background Image
+
+---
+### Advanced Background
+
+---
+
 
 ---
 # Part V: Code
+
 
 ---
 # Part : Advanced Layout
