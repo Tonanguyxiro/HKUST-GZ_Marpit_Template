@@ -7,6 +7,8 @@ Marpit Presentation Template for The Hong Kong University of Science and Technol
 ### Advantage of Markdown
 
 - No worry to layout, just focus on what you want to present.
+- Easy to design your own theme
+- No large software installation required
 
 ### Markdown VS LateX
 
@@ -23,7 +25,7 @@ To be completed
 
 ### Download the template and theme
 
-In [Release] page, click the compressed file related to your university,
+In [Release]() page, click the compressed file related to your university,
 
 ### Install VScode add-ons
 
@@ -31,11 +33,37 @@ In VScode market space, search [Marp for VS Code](https://marketplace.visualstud
 
 <img src="Image/Marpit-install.png" alt="Marpit-install" width="50%">
 
+if you are new to Markdown on VS Code you should also install [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) on your VS Code.
+
 ### Add theme
+
+- Copy the `theme` folder to your workspace
+- In the `theme` dictionary, **right click** the theme file and select `copy relative path`
+- Open settings of VS Code, search `Markdown › Marp: Themes`, click the `Add item` buttom and paste the path you copied.
+
+<img src="Image/Add-theme.png" alt="Add theme" width=100%>
 
 ### Write markdown
 
+You can write your markdown code from the template, or just copy the config below to the beginning of your file.
+
+```yaml
+---
+marp: true
+theme: HKUSTGZStd
+paginate: true
+size: 1080P
+
+header: '![](Theme/logo.png)'
+footer: 'Your Presentation, Name, Date, or Conference'
+---
+```
+
+You can click the Markdown Preview button to see the rendered view.
+
 ### Export your slide
+
+Clicking the Marpit button on the upper-rightt, and you can export the slides with `Export Side Deck` .
 
 ## Want to customise your slide?
 
@@ -61,9 +89,13 @@ Please refer to [Markdown Guide](https://www.markdownguide.org/)
 
 ### More about Marpit
 
-If you are interested in Marpited, you can
+If you are interested in Marpited, you can refer to [its website](https://marpit.marp.app).
 
 ## What's NEXT
+
+### For Inter-University Friendship
+
+> The specially design version for SUSTech and SYSU will keep updatig with the HKUST(GZ)/HKUST vesion
 
 ### Further Developing
 
