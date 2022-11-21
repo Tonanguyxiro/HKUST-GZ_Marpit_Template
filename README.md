@@ -1,31 +1,30 @@
 # HKUST(GZ) [Marpit](https://marpit.marp.app/) Template for Presentation
+
 ## Introduction
 
-Marpit Presentation Template for The Hong Kong University of Science and Technology (Guangzhou), the
+Marpit Presentation Template for The Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), the
 
-### Advantage
+### Advantage of Markdown
 
-- No worry to layout, just focus on what you want to present. 
-
-
+- No worry to layout, just focus on what you want to present.
 
 ### Markdown VS LateX
 
+To be completed
+
+
 | Item | Markdown | Latex |
-| ---- | -------- | ----- |
+| ------ | ---------- | ------- |
 |      |          |       |
 |      |          |       |
 |      |          |       |
-
-
 
 ## Usage
 
-
-
 ### Download the template and theme
 
-### Install VScode add-ons 
+
+### Install VScode add-ons
 
 ### Add theme
 
@@ -33,32 +32,41 @@ Marpit Presentation Template for The Hong Kong University of Science and Technol
 
 ### Export your slide
 
-
-
 ## Want to customise your slide?
 
 ### I am not from HKUST(GZ)
 
+Currently, we have prepared special release for students from Southern University of Science and Technology (SUSTech) and San Yan-san University (SYSU), you can download the pack from [release]() page.
 
+Other wise, you can change the settings by your self.
 
+#### Change the color
 
+To be completed.
 
+#### Change the Logo
+
+To be completed.
 
 
 ## Resource for reference
 
 ### Markdown syntax
 
-Please refer to [Markdown Guide](https://www.markdownguide.org/) 
+Please refer to [Markdown Guide](https://www.markdownguide.org/)
+
+### More about Marpit
+
+If you are interested in Marpited, you can 
 
 
+## What's NEXT
 
-## What's NEXT 
 ### Further Developing
 
 #### Global Settings
 
-- [ ] Add special size preset for display in large lecture hall 
+- [ ] Add special size preset for display in large lecture hall
 - [ ] Adjust header and footer design
 
 #### Resources
@@ -74,16 +82,21 @@ Please refer to [Markdown Guide](https://www.markdownguide.org/)
 
 #### Image
 
-
+* [ ] Add caption to the image
 
 #### Advanced Layout Design
 
-- [ ] Two column
+- [ ] Two column layout
+
+#### File structure
+
+* [ ] Generate / Store the image and css settings online.
+* [ ] Intergrate all the css files in one.
 
 ### Other projects on the way
 
 - [ ] HKUST(GZ) Marpit Slide Template: Dark mode
-- [ ] HKUST(GZ) Marpit Slide Template: For online conference 
+- [ ] HKUST(GZ) Marpit Slide Template: For online conference
 - [ ] HKUST(GZ) Marpit Slide Template: For homework
 - [ ] HKUST(GZ) Latex Slide Template
 - [ ] HKUST(GZ) Latex Report Template
