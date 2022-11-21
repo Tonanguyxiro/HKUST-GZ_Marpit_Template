@@ -83,7 +83,7 @@ Clicking the Marpit button on the upper-rightt, and you can export the slides wi
 
 ### I am not from HKUST(GZ)
 
-Currently, we have prepared special release for students from Southern University of Science and Technology (SUSTech) and San Yan-san University (SYSU), you can download the pack from [release]() page.
+Currently, we have prepared special release for students from Southern University of Science and Technology (SUSTech) and Sun Yat-sen University (SYSU), you can download the pack from [release]() page.
 
 Other wise, you can change the settings by your self.
 
