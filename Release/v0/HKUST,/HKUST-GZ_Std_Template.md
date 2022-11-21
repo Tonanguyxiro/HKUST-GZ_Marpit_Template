@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: HKUSTGZStd
+theme: My-University
 paginate: true
 size: 1080P
 

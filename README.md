@@ -61,6 +61,10 @@ footer: 'Your Presentation, Name, Date, or Conference'
 
 You can click the Markdown Preview button to see the rendered view.
 
+#### Choose Slide Size
+
+As you may see
+
 ### Export your slide
 
 Clicking the Marpit button on the upper-rightt, and you can export the slides with `Export Side Deck` .
