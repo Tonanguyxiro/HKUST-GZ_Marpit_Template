@@ -48,6 +48,17 @@ li {
   font-size: 1.6em;
 }
 
+th {
+  font: bold;
+  background-color: var(--hkust-yellow-light);
+  color: var(--hkust-white);
+  font-size: 1.2em;
+}
+
+td {
+  /* background-color: var(--hkust-gray); */
+  font-size: 1.2em;
+}
 
 
 header {
@@ -57,9 +68,8 @@ header {
 footer {
   bottom: 30px;
   left: 40px;
-  font-size: 1.2em;
+  font-size: 1.35em;
   color: #000000;
-  /* text-shadow: 2px 2px 0 var(--hkust-white); */
 }
 
 /* Styling page number */
